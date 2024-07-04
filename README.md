@@ -1,2 +1,2 @@
 # 1DGS
-Gaussian splatting for time-series inputs
+1D Gaussian fitting to sampled time series.
